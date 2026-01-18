@@ -1,0 +1,3 @@
+this is .net web api project written with clean architecture cqrs,ddd i also used tools for orm entity framework,jwt token for authorization role based,
+smtp email sender for one time passcode, there are 3 roles user admin and mechanic and all of them own its role like admin can manage crud methods, mechanic can service car with its id
+and so on...
