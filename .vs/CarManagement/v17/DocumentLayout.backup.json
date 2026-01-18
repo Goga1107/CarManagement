@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sss\\source\\repos\\CarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|solutionrelative:carmanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|solutionrelative:carmanagement.infrastructure\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\commands\\createcar\\createcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\commands\\createcar\\createcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\commands\\createcar\\createcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\commands\\createcar\\createcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\register\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\register\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\register\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\register\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|solutionrelative:carmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|solutionrelative:carmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\entities\\servicerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\entities\\servicerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|solutionrelative:carmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\verify-otp\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\verify-otp\\verifyotphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\carmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\carmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\verify-otp\\verifyotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\verify-otp\\verifyotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\login\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\login\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\users\\commands\\login\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\users\\commands\\login\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.infrastructure\\repositories\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|solutionrelative:carmanagement.infrastructure\\repositories\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|solutionrelative:carmanagement.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.infrastructure\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|solutionrelative:carmanagement.infrastructure\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\queries\\getservicedcarbyplate\\getservicedcarbyplatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\queries\\getservicedcarbyplate\\getservicedcarbyplatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2552B5F-D981-4369-A261-3E9D344F59D4}|CarManagement.Api\\CarManagement.Api.csproj|solutionrelative:carmanagement.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\queries\\getservicedcarbymechanic\\getservicedcarbymechanichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\queries\\getservicedcarbymechanic\\getservicedcarbymechanichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\queries\\getservicedcarbymechanic\\getservicedcarbymechanicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\queries\\getservicedcarbymechanic\\getservicedcarbymechanicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\queries\\getservicedcarbyplate\\getservicedcarbyplatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\queries\\getservicedcarbyplate\\getservicedcarbyplatequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\dtos\\usershortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\dtos\\usershortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\mapperprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\mapperprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\dtos\\servicerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\dtos\\servicerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\queries\\getcarbyid\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\queries\\getcarbyid\\getcarbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\queries\\getcarbyid\\getcarbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\queries\\getcarbyid\\getcarbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\queries\\getcars\\getcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\queries\\getcars\\getcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\cars\\queries\\getcars\\getcarshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\cars\\queries\\getcars\\getcarshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\commands\\servicecar\\servicecarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\commands\\servicecar\\servicecarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.application\\servicerecords\\commands\\servicecar\\servicecarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944B3C8-EEA1-4827-A815-D10426AE338E}|CarManagement.Application\\CarManagement.Application.csproj|solutionrelative:carmanagement.application\\servicerecords\\commands\\servicecar\\servicecarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D090D71A-E5B7-42CB-B763-D836E3E30F2C}|CarManagement.Domain\\CarManagement.Domain.csproj|solutionrelative:carmanagement.domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|c:\\users\\sss\\source\\repos\\carmanagement\\carmanagement.infrastructure\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A504B2E8-4151-47E1-A03B-5AE93EEA98BB}|CarManagement.Infrastructure\\CarManagement.Infrastructure.csproj|solutionrelative:carmanagement.infrastructure\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\Register\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\Register\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\Register\\RegisterUserHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\Register\\RegisterUserHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:50:06.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CarManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:11:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Infrastructure\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "CarManagement.Infrastructure\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:13:18.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCarCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:07:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Commands\\CreateCar\\CreateCarHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:07:48.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\Register\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\Register\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\Register\\RegisterUserCommand.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\Register\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:43:14.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CarManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\appsettings.json",
+              "RelativeToolTip": "CarManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T15:36:23.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CarManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Program.cs",
+              "RelativeToolTip": "CarManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:11:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:43:12.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VerifyOtpHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:44:13.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\ServiceRecord.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Entities\\ServiceRecord.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\ServiceRecord.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Entities\\ServiceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T14:47:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "CarManagement.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:34:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VerifyOtpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpCommand.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpCommand.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpCommand.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\verify-otp\\VerifyOtpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:43:59.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\CarManagement.Application.csproj",
+              "RelativeDocumentMoniker": "CarManagement.Application\\CarManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\CarManagement.Application.csproj",
+              "RelativeToolTip": "CarManagement.Application\\CarManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T11:48:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarManagement.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarManagement.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:23:38.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\login\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\login\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\login\\LoginUserHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\login\\LoginUserHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:11:09.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\login\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Users\\Commands\\login\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Users\\Commands\\login\\LoginUserCommand.cs",
+              "RelativeToolTip": "CarManagement.Application\\Users\\Commands\\login\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:10:01.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\EmailService.cs",
+              "RelativeDocumentMoniker": "CarManagement.Infrastructure\\Repositories\\EmailService.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\EmailService.cs",
+              "RelativeToolTip": "CarManagement.Infrastructure\\Repositories\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:06:20.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:04:43.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetServicedCarByPlateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:03:23.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarManagement.Api\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarManagement.Api\\Controllers\\CarController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:24:12.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "CarManagement.Api\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Api\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "CarManagement.Api\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:31:18.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Infrastructure\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "CarManagement.Infrastructure\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:09:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetServicedCarByMechanicHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:39:50.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetServicedCarByMechanicQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicQuery.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicQuery.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicQuery.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByMechanic\\GetServicedCarByMechanicQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:40:01.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetServicedCarByPlateQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateQuery.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateQuery.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateQuery.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Queries\\GetServicedCarByPlate\\GetServicedCarByPlateQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:02:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\MapperProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\MapperProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\MapperProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "CarManagement.Application\\MapperProfiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:58:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Interfaces\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\IServiceRepository.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Interfaces\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:10:10.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserShortDto.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\UserShortDto.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Dtos\\UserShortDto.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\UserShortDto.cs",
+              "RelativeToolTip": "CarManagement.Application\\Dtos\\UserShortDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:53:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\ServiceRecordDto.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Dtos\\ServiceRecordDto.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\ServiceRecordDto.cs",
+              "RelativeToolTip": "CarManagement.Application\\Dtos\\ServiceRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:07:02.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\CarDto.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Dtos\\CarDto.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Dtos\\CarDto.cs",
+              "RelativeToolTip": "CarManagement.Application\\Dtos\\CarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:07:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetCarByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:02:12.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetCarByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdQuery.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdQuery.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdQuery.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Queries\\GetCarById\\GetCarByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T15:02:14.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetCarsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsQuery.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsQuery.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsQuery.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:33:22.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetCarsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\Cars\\Queries\\GetCars\\GetCarsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:33:17.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:13:22.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServiceCarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarHandler.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarHandler.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarHandler.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:36:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceCarCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarCommand.cs",
+              "RelativeDocumentMoniker": "CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarCommand.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarCommand.cs",
+              "RelativeToolTip": "CarManagement.Application\\ServiceRecords\\Commands\\ServiceCar\\ServiceCarCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T13:31:47.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarManagement.Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarManagement.Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:32:20.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Data\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarManagement.Infrastructure\\Data\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\sss\\source\\repos\\CarManagement\\CarManagement.Infrastructure\\Data\\CarDbContext.cs",
+              "RelativeToolTip": "CarManagement.Infrastructure\\Data\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:44:39.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
